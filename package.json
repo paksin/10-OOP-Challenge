@@ -1,0 +1,29 @@
+{
+  "name": "10-oop-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paksin/10-OOP-Challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paksin/10-OOP-Challenge/issues"
+  },
+  "homepage": "https://github.com/paksin/10-OOP-Challenge#readme",
+  "dependencies": {
+    "inquirer": "8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
