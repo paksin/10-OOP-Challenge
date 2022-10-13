@@ -37,7 +37,7 @@ function combineHTML(data) {
         <div class="card-body">
             <h5 class="card-title">${data[i].name}</h5>
             <p class="card-text">ID: ${data[i].id}</p>
-            <p class="card-text">Email: ${data[i].email}</p>
+            <p class="card-text">Email: <a href="mailto:${data[i].email}">${data[i].email}</a></p>
             <p class="card-text">Office Number: ${data[i].officeNumber}</p>
             
         </div>
@@ -47,7 +47,7 @@ function combineHTML(data) {
         <div class="card-body">
             <h5 class="card-title">${data[i].name}</h5>
             <p class="card-text">ID: ${data[i].id}</p>
-            <p class="card-text">Email: ${data[i].email}</p>
+            <p class="card-text">Email: <a href="mailto:${data[i].email}">${data[i].email}</a></p>
             <p class="card-text">Github:<a href="https://github.com/${data[i].github}">${data[i].github}</a></p>
             
         </div>
@@ -57,7 +57,7 @@ function combineHTML(data) {
         <div class="card-body">
             <h5 class="card-title">${data[i].name}</h5>
             <p class="card-text">ID: ${data[i].id}</p>
-            <p class="card-text">Email: ${data[i].email}</p>
+            <p class="card-text">Email: <a href="mailto:${data[i].email}">${data[i].email}</a></p>
             <p class="card-text">School: ${data[i].school}</p>
             
         </div>

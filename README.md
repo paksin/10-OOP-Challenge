@@ -6,7 +6,7 @@ https://github.com/paksin/10-OOP-Challenge
 
 ## Link to Video Demo
 
-https://drive.google.com/file/d/1mq25bRg0x-ekmjgDLf_wnGdBFUi3NVT4/view
+https://drive.google.com/file/d/1hRpXqvWlnTEFOk1RAnk6itdLFyG_tgmT/view
 
 ## Description
 
